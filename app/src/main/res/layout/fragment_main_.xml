@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main_Fragment">
+
+
+    <Button
+        android:id="@+id/Mynewbutton"
+        android:layout_width="196dp"
+        android:layout_height="147dp"
+        android:text="Button text"
+        tools:layout_editor_absoluteX="69dp"
+        tools:layout_editor_absoluteY="406dp" />
+
+
+
+</FrameLayout>
